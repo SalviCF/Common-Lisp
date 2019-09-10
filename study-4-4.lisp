@@ -150,25 +150,11 @@ ht
 
 (subprop 'alpha 'd 'fooprop)
 
+(defun forget-meeting (x y)
+  (subprop x y 'has-met)
+  (subprop y x 'has-met))
+
+(forget-meeting 'jaime 'daenerys)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(subprop 'daenerys 'jaime 'has-met)
