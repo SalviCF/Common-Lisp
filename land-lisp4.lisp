@@ -270,5 +270,3 @@
 (= 2 2.0)
 (string-equal "hola" "hola")
 (char-equal #\a #\a)
-
-

@@ -1,4 +1,3 @@
-
 (defun greet ()
   (format t "Hi, my name is Salvi"))
 

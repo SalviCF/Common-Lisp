@@ -16,7 +16,7 @@
 
 (being x 5 (* x x))
 
-;; Another macro: same effect as fold in Haskell
+;; Another macro: similar effect as fold in Haskell
 (defmacro fold (fun &rest args)
   `(reduce #',(first fun) ',args))
 

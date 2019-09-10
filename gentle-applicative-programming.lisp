@@ -355,16 +355,3 @@ words
 
 words
 (mapcar #'(lambda (x y) (push x y)) '(un deux trois) words)
-
-
-
-
-
-
-
-
-
-
-
-
-

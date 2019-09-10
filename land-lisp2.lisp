@@ -136,10 +136,4 @@
 
 (cadadr '((peas carrots tomatoes) (snake cat dog) duck)) ; CAT
 
-
-
-
-
-
-
 ; end buffer

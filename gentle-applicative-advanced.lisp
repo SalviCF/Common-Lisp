@@ -1,5 +1,3 @@
-
-
 (mapcar #'(lambda (person job) (list person 'gets job)) '(joe angy sebas) '(job1 job2 job3))
 (mapcar #'+ '(1 2 3) '(10 20 30 40))
 

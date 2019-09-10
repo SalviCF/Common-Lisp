@@ -283,7 +283,3 @@
 (setf *print-circle* t)
 
 (circular (list 1 2 3))
-
-
-
-

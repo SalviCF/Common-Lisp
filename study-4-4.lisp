@@ -156,5 +156,4 @@ ht
 
 (forget-meeting 'jaime 'daenerys)
 
-
 (subprop 'daenerys 'jaime 'has-met)

@@ -1,4 +1,3 @@
-
 ;; Evolution game
 
 ; Our world parameters

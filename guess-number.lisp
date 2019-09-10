@@ -54,5 +54,3 @@
   (g (f 5)))
 
 ;; labels is used for recursion
-
-
